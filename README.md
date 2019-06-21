@@ -6,10 +6,8 @@ Code and data for our ISWC 2019 paper "Swimming Style Recognition and Lane Count
 
 TBD
 
-## Data
+## Code and Data
 
-TBD
+Our code and data can currently be found here: http://bit.ly/2VGEeWN 
 
-## Code
-
-TBD
+We will update this repository with the code, a how-to and complete data description soon. 
