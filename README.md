@@ -4,7 +4,7 @@ Code and data for our ISWC 2019 paper "Swimming Style Recognition and Lane Count
 
 ## Paper
 
-TBD
+https://dl.acm.org/citation.cfm?id=3347719
 
 ## Code and Data
 
