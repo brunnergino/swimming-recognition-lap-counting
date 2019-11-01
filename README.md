@@ -8,8 +8,8 @@ https://dl.acm.org/citation.cfm?id=3347719
 
 ## Code and Data
 
-* * Our code can currently be found here: http://bit.ly/2VGEeWN * * 
-* * Code and raw data will be added to the repo soon * * 
+- Our code can currently be found here: http://bit.ly/2VGEeWN 
+- Code and raw data will be added to the repo soon 
  
 
 ### Data
