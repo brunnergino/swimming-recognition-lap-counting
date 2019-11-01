@@ -8,10 +8,9 @@ https://dl.acm.org/citation.cfm?id=3347719
 
 ## Code and Data
 
-Our code and data can currently be found here: http://bit.ly/2VGEeWN 
-
-We will update this repository with the code, a how-to and complete data description soon. 
-
+* * Our code can currently be found here: http://bit.ly/2VGEeWN * * 
+* * Code and raw data will be added to the repo soon * * 
+ 
 
 ### Data
 In the data directory, there is a separate folder for each of the 40 swimmers. Within each swimmer's folder, there is one file per recording session, labeled with the pre-dominant style and the Epoch time stamp. 
